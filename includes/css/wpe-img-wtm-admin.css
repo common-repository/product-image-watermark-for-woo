@@ -1,0 +1,22 @@
+#message.updated {
+	display:none;
+}
+
+
+#wpeimgwtm_regen_thumb_bar{
+	position:relative;
+	height:25px;
+}
+
+
+#wpeimgwtm_regen_thumb_bar_percent{
+	position:absolute;
+	left:50%;
+	top:50%;
+	width:300px;
+	margin-left:-150px;
+	height:25px;
+	margin-top:-9px;
+	font-weight:bold;
+	text-align:center;
+}

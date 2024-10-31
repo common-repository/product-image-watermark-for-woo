@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Image Watermark for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-04 10:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.4.1"
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:88
+#, php-format
+msgid "%s Watermark Image"
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:107
+#, php-format
+msgid "%s Watermark Image Alignment"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:55
+msgid "Abort Resizing Images"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add Watermark to the images on Woocommerce Downloadable Products."
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:47
+#, php-format
+msgid ""
+"All done! %1$s image(s) were successfully resized in %2$s seconds and there "
+"were %3$s failure(s)."
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:48
+#, php-format
+msgid ""
+"All done! %1$s image(s) were successfully resized in %2$s seconds and there "
+"were 0 failures."
+msgstr ""
+
+#: includes/admin/class-woo-img-wtm-admin.php:421
+msgid ""
+"Check this box to disable image watermark for images uploaded by this user."
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:99
+#, php-format
+msgid "Check this box to repeat watermark on %s image"
+msgstr ""
+
+#: includes/class-wtm-renderer.php:98
+msgid "Choose"
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:108
+msgid "Choose watermark alignment."
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:57
+msgid "Debugging Information"
+msgstr ""
+
+#: includes/admin/class-woo-img-wtm-admin.php:418
+msgid "Disable Image Watermark:"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/product-image-watermark-for-woo/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wppluginexperts.com/"
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:77
+msgid "Image Watermark Options"
+msgstr ""
+
+#: includes/admin/class-woo-img-wtm-admin.php:415
+msgid "Image Watermark Settings"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:61
+#, php-format
+msgid "Images Resized: %s"
+msgstr ""
+
+#: includes/class-wtm-renderer.php:61
+msgid "No watermark"
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:99
+msgid "Note: "
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:42
+msgid ""
+"Please be patient while the thumbnails are regenerated. This can take a "
+"while if your server is slow (inexpensive hosting) or if you have many "
+"images. Do not navigate away from this page until this script is done or the "
+"thumbnails will not be resized. You will be notified via this page when the "
+"regenerating is completed."
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Image Watermark for WooCommerce"
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:42
+msgid "Product Watermark"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:93
+msgid "Regenerate All Thumbnails"
+msgstr ""
+
+#: includes/admin/class-woo-img-wtm-admin.php:461
+msgid "Regenerate Thumb"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:12
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: includes/admin/class-wtm-admin-settings-tabs.php:98
+#, php-format
+msgid "Repeat %s Watermark Image"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:62
+#, php-format
+msgid "Resize Failures: %s"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:75
+msgid "Stopping..."
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:89
+msgid ""
+"Thumbnail regeneration is not reversible, but you can just change your "
+"thumbnail dimensions back to the old values and click the button again if "
+"you don't like the results."
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:91
+msgid "To begin, just press the button below."
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:60
+#, php-format
+msgid "Total Images: %s"
+msgstr ""
+
+#: includes/admin/forms/wpe-img-wtm-regenerate-img.php:30
+#, php-format
+msgid "Unable to find any images. Are you sure %ssome exist%s?"
+msgstr ""
+
+#: product-image-watermark-for-woo.php:88
+msgid ""
+"WooCommerce needs to be activated to be able to use the Download Image "
+"Watermark."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Plugin Experts"
+msgstr ""
